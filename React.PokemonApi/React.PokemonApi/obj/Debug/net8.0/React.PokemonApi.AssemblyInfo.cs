@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("React.PokemonApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+37ff380b1546e9605e88a45014cc8d3871615e7c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f437f6a866d22b8566e0eccec9e18ee60be574f3")]
 [assembly: System.Reflection.AssemblyProductAttribute("React.PokemonApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("React.PokemonApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

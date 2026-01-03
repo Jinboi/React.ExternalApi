@@ -1,37 +1,41 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\",
+  "WorkspaceRootPath": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\services\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\services\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\services\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\services\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\data\\pokemondatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\data\\pokemondatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\youngwoo\\documents\\mega\\wip\\02-wip\\jan 2 trytwo\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\react.pokemonapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\react.pokemonapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\controllers\\pokemoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\services\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\services\\pokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\services\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\services\\ipokemonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\data\\pokemondatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\data\\pokemondatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|c:\\users\\duddn\\documents\\git\\jan 3\\react.externalapi\\react.pokemonapi\\react.pokemonapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5BCFFE69-BF6A-498C-93B7-67A5A39C07DF}|React.PokemonApi\\React.PokemonApi.csproj|solutionrelative:react.pokemonapi\\models\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -42,115 +46,120 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Program.cs",
               "RelativeDocumentMoniker": "React.PokemonApi\\Program.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Program.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Program.cs",
               "RelativeToolTip": "React.PokemonApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T01:20:39.426Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PokemonDataContext.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\PokemonDataContext.cs",
-              "RelativeDocumentMoniker": "React.PokemonApi\\Data\\PokemonDataContext.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\PokemonDataContext.cs",
-              "RelativeToolTip": "React.PokemonApi\\Data\\PokemonDataContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T00:59:27.93Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Models\\Pokemon.cs",
-              "RelativeDocumentMoniker": "React.PokemonApi\\Models\\Pokemon.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Models\\Pokemon.cs",
-              "RelativeToolTip": "React.PokemonApi\\Models\\Pokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T00:56:05.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "IPokemonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\IPokemonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\IPokemonRepository.cs",
               "RelativeDocumentMoniker": "React.PokemonApi\\Services\\IPokemonRepository.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\IPokemonRepository.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\IPokemonRepository.cs",
               "RelativeToolTip": "React.PokemonApi\\Services\\IPokemonRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T00:55:20.231Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T00:55:20.231Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PokemonRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\PokemonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\PokemonRepository.cs",
               "RelativeDocumentMoniker": "React.PokemonApi\\Services\\PokemonRepository.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\PokemonRepository.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Services\\PokemonRepository.cs",
               "RelativeToolTip": "React.PokemonApi\\Services\\PokemonRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T00:56:44.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T00:56:44.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "PokemonController.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Controllers\\PokemonController.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Controllers\\PokemonController.cs",
               "RelativeDocumentMoniker": "React.PokemonApi\\Controllers\\PokemonController.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Controllers\\PokemonController.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Controllers\\PokemonController.cs",
               "RelativeToolTip": "React.PokemonApi\\Controllers\\PokemonController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-03T00:51:51.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "React.PokemonApi\\Data\\SeedData.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\SeedData.cs",
+              "RelativeToolTip": "React.PokemonApi\\Data\\SeedData.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAgwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T01:22:45.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "React.PokemonApi.http",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\React.PokemonApi.http",
+              "RelativeDocumentMoniker": "React.PokemonApi\\React.PokemonApi.http",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\React.PokemonApi.http",
+              "RelativeToolTip": "React.PokemonApi\\React.PokemonApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2026-01-03T23:08:36.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\appsettings.json",
               "RelativeDocumentMoniker": "React.PokemonApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\appsettings.json",
               "RelativeToolTip": "React.PokemonApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-01-03T01:02:44.869Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SeedData.cs",
-              "DocumentMoniker": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\SeedData.cs",
-              "RelativeDocumentMoniker": "React.PokemonApi\\Data\\SeedData.cs",
-              "ToolTip": "C:\\Users\\Youngwoo\\Documents\\MEGA\\WIP\\02-WIP\\Jan 2 TryTwo\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\SeedData.cs",
-              "RelativeToolTip": "React.PokemonApi\\Data\\SeedData.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA9AAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Models\\Pokemon.cs",
+              "RelativeDocumentMoniker": "React.PokemonApi\\Models\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Models\\Pokemon.cs",
+              "RelativeToolTip": "React.PokemonApi\\Models\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-03T01:22:45.219Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-03T00:56:05.493Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PokemonDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\PokemonDataContext.cs",
+              "RelativeDocumentMoniker": "React.PokemonApi\\Data\\PokemonDataContext.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 3\\React.ExternalApi\\React.PokemonApi\\React.PokemonApi\\Data\\PokemonDataContext.cs",
+              "RelativeToolTip": "React.PokemonApi\\Data\\PokemonDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-03T00:59:27.93Z"
             }
           ]
         }
