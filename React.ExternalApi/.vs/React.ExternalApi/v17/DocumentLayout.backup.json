@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\services\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\services\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\services\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\react.externalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\react.externalapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|c:\\users\\duddn\\documents\\git\\jan 2\\react.externalapi\\react.externalapi\\react.externalapi\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41FCC56B-15D3-4A7A-AB3A-4999D185DF6D}|React.ExternalApi\\React.ExternalApi.csproj|solutionrelative:react.externalapi\\dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Migrations\\20260102191619_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:React.ExternalApi\\Migrations\\20260102191619_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Services\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\Services\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Services\\StudentRepository.cs",
+              "RelativeToolTip": "React.ExternalApi\\Services\\StudentRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwA0AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T20:03:53.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "React.ExternalApi",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi.csproj",
+              "RelativeDocumentMoniker": "React.ExternalApi\\React.ExternalApi.csproj",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi.csproj",
+              "RelativeToolTip": "React.ExternalApi\\React.ExternalApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-02T20:02:44.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Services\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\Services\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Services\\IStudentRepository.cs",
+              "RelativeToolTip": "React.ExternalApi\\Services\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T20:01:27.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "React.ExternalApi\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T19:44:31.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Program.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\Program.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Program.cs",
+              "RelativeToolTip": "React.ExternalApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T19:01:08.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260102191619_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Migrations\\20260102191619_InitialCreate.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\Migrations\\20260102191619_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Migrations\\20260102191619_InitialCreate.cs",
+              "RelativeToolTip": "React.ExternalApi\\Migrations\\20260102191619_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T19:16:20.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\appsettings.json",
+              "RelativeDocumentMoniker": "React.ExternalApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\appsettings.json",
+              "RelativeToolTip": "React.ExternalApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-02T19:13:23.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\DbContext.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\DbContext.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\DbContext.cs",
+              "RelativeToolTip": "React.ExternalApi\\DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T19:12:08.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "React.ExternalApi\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\duddn\\Documents\\GIT\\Jan 2\\React.ExternalApi\\React.ExternalApi\\React.ExternalApi\\Model\\Student.cs",
+              "RelativeToolTip": "React.ExternalApi\\Model\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-02T19:11:12.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
