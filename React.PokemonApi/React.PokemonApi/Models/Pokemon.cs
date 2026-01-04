@@ -1,4 +1,8 @@
 ﻿namespace React.PokemonApi.Models;
+
+/// <summary>
+/// Represents a Pokemon entity.
+/// </summary>
 public class Pokemon
 {
     public int Id { get; set; }

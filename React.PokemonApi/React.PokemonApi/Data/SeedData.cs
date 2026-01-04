@@ -2,6 +2,9 @@
 
 namespace React.PokemonApi.Data;
 
+/// <summary>
+/// Initial seed data will be provided to the database when there are no Pokemon in the database.
+/// </summary>
 public class SeedData
 {
     public static void Seed(PokemonDataContext context)

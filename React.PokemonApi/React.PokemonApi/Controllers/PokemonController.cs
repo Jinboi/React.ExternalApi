@@ -1,6 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using React.PokemonApi.Services;
 
+/// <summary>
+/// This controller takes API requests and passes them to the repository.
+/// </summary>
 [ApiController]
 [Route("api/[controller]")]
 public class PokemonController : ControllerBase
