@@ -1,4 +1,6 @@
-# Pokemon
+# PokemonApi
+
+![Pokemon](./_resources/pokemon-logo.PNG)
 
 Welcome to the **pokemon** App!
 
@@ -91,7 +93,7 @@ Once the Web application is running:
 
 ### pokemon List
 
-![pokemon list](./_resources/pokemon-loading-success.PNG)
+![Pokemon list](./_resources/pokemon-loading-success.PNG)
 
 ### Error Page
 
