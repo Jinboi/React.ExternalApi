@@ -1,6 +1,6 @@
 # PokemonApi
 
-![Pokemon](./_resources/pokemon-logo.PNG)
+![Pokemon list](./_resources/pokemon-logo.PNG)
 
 Welcome to the **pokemon** App!
 
