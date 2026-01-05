@@ -91,7 +91,7 @@ Once the Web application is running:
 
 ### pokemon List
 
-![wizards list](./_resources/pokemon-loading-success.png)
+![pokemon list](./_resources/pokemon-loading-success.png)
 
 ### Error Page
 
