@@ -86,16 +86,16 @@ Once the Web application is running:
 
 ### Loading Page
 
-![loading page](./_resources/pokemon-loading-image.png)
+![loading page](./_resources/pokemon-loading-image.PNG)
 
 
 ### pokemon List
 
-![pokemon list](./_resources/pokemon-loading-success.png)
+![pokemon list](./_resources/pokemon-loading-success.PNG)
 
 ### Error Page
 
-![error page](./_resources/pokemon-loading-fail.png)
+![error page](./_resources/pokemon-loading-fail.PNG)
 
 ## How It Works
 
