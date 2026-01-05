@@ -104,7 +104,6 @@ Once the Web application is running:
 ## How It Works
 
 - **API Integration**: Fetch is used to call the External API.
-- **Data Storage**: A new SQL Server database is created and the required schema is set up at run-time, or an existing database is used if previously created.
 - **Seed Data**: Seed Data will be added to the database if there is no data in the database.
 - **Data Access**: Interaction with the database is via Entity Framework Core.
 
