@@ -1,6 +1,8 @@
 # PokemonApi
 
-![Pokemon list](./_resources/pokemon-logo3.PNG)
+<p align="center">
+  <img src="./_resources/pokemon-logo3.PNG" alt="Pokemon" />
+</p>
 
 Welcome to the **pokemon** App!
 
