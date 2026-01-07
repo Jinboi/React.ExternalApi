@@ -41,7 +41,7 @@ It allows users to view a list of pokemon from an external API!
 
 ## Getting Started
 
-The InitialCreate database migration has been created. You will need to 
+The InitialCreate database migration has been created. You will need to update database
 
 ### Prerequisites
 
